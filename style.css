@@ -1,0 +1,13 @@
+*{
+
+}
+/*style for body*/
+body {
+   background-image: url(https://i.pinimg.com/736x/bd/f7/ad/bdf7ad989771b01de6529e44d9ba2814.jpg);
+   color: deeppink;
+}
+
+.container {
+    background-color: lightpink;
+    padding: 30px;
+}
